@@ -1,0 +1,30 @@
+Empress gear 4% necro success rate
+Expect 25 attempts per necro success
+25 * 150 = 3750 crystal pieces required 
+Buy 35 chaos ticket per week, add 7 free run per wee = 42 chaos run per week
+Draw treasure box 10+1 per day, average yield 2 pieces crystal per day
+On average, get one raw crystal for every 10 runs, each raw crystal extracts 52.5 crystal pieces
+
+Weekly crystal acquisition is 42 * 4.2 + 7 * 2 + 42/10 * 52.5 = 410.9
+To get one necro piece it takes 3750/410.9=9.13 weeks, or 63.91 days 
+
+8 pieces of necro takes 511.28 days, or 1.4 years
+
+The cost is 383,250 cash shop crystal 
+Assume you get the best deal (daily crystal package 3) it costs 191 crystal/dollar. 8 necro costs $2006.5
+Assume you get the worst deal (direct purchase) it costs 39.8 crystal/dollar, 8 necro costs $9629.4
+
+Treasure box cost
+Drawing 20m treasure box per day for 511.28 days cost 10.23b. With conversion rate of $30/b, this adds $306.8 to the total cost.
+
+Fodder cost
+Each necro is expected to fail 24 times. 8 necro gear require 8 * 24 = 192 fodders. Each cost 800m, this totals 153.6b, or $4608
+
+In total, the cost of 8 necro is
+9629.4+306.8+4608=14543.4 (fast path)
+2006.5+306.8+4608=6920.5 (slow path)
+
+One necro:
+63.91 * 750 / 191 = $251
+24 * 0.7 * 30 = 504
+63.91 * 20 / 1000 * 30 = $38.3
